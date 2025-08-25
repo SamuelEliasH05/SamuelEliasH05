@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## My name is Samuel Huerta, and this is my first time using GitHub. I can't wait to see what this class can do to improve my skills in coding and programming 
+## I'm from Chile (which means I speak Spanish), I play volleyball for fun, and go to the gym regularly. 
+## Can't wait to see where this leads me :)
+
 <!--
 **SamuelEliasH05/SamuelEliasH05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
